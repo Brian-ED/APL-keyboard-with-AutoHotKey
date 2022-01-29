@@ -5,6 +5,7 @@
 
 first row means what key, second row means alt+key gives that character. third row means alt+shift need to be held to get the character.
 
+```
 Q ⌸ ⌺
 W ⍵
 E ⍷ ∊ 
@@ -49,6 +50,6 @@ ESC ⋄
 ´ ⌹ ÷
 * ⍣
 ~   ⍨
-
+```
 UNUSED:
 TP'M
