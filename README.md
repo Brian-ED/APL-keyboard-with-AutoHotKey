@@ -1,5 +1,6 @@
 # APL keyboard with AutoHotKey
  The modification keys are alt and shift. This is only supposed to work on danish keyboard but AutoHotKey is usually simple enough to read and change to your liking.
+(NOTE this text layout breaks when veiwed on github. please look inside the read-me file itself)
 
 first row means what key, second row means alt+key gives that character. third row means alt+shift need to be held to get the character.
 
