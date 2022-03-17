@@ -28,11 +28,11 @@ Send, ⍴
 return
 
 !y::
-Send, ↑
+Send, ↓
 return
 
 !u::
-Send, ↓
+Send, ↑
 return
 
 !i::
